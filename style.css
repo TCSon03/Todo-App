@@ -1,0 +1,14 @@
+#todoForm {
+  width: 100%;
+  padding: 24px;
+  border: 1px solid #bbb;
+}
+
+button {
+  min-width: 100px;
+}
+
+#reset-btn {
+  background-color: red;
+  border: none;
+}
